@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy>=1.19.3
+ultralytics
+numpy
+Pillow
+pandas
+flask
+supervision
